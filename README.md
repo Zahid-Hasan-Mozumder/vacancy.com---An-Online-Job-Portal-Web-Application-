@@ -1,6 +1,4 @@
-﻿# vacancy.com---An-Online-Job-Portal-Web-Application-
-
-# Job Portal Web Application
+﻿# vacancy.com---An-Online-Job-Portal-Web-Application
 
 ## Project Overview
 This is a job portal web application that allows recruiters to post job listings and job seekers to browse, search, apply, and save job posts. The project features a secure backend system built with Spring Boot and offers a user-friendly frontend for seamless interaction.
